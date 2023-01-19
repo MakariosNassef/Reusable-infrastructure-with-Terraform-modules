@@ -79,7 +79,7 @@ sudo service nginx restart
 
 
 
-## ✍️ Authors <a name = "Makarios Nassef"></a>
+## ✍️ Author <a name = "Makarios Nassef"></a>
 
 - [@MakariosNassef](https://github.com/MakariosNassef) 
 
