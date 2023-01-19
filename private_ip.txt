@@ -1,0 +1,4 @@
+Private EC2 ip: 10.0.1.220
+Private EC2 ip: 10.0.3.220
+Private EC2 ip: 10.0.1.183
+Private EC2 ip: 10.0.3.138
