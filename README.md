@@ -19,6 +19,7 @@
 </p>
 
 ## Output
+> ![image](https://user-images.githubusercontent.com/28235504/213330832-f59999ef-644c-4e13-86c2-d7fe27cc7fc5.png)
 
 ### workspace
 > ![image](https://user-images.githubusercontent.com/28235504/213320193-f4a8f15d-fa56-4f6a-918f-02290115cd38.png)
@@ -51,6 +52,7 @@
 > ![image](https://user-images.githubusercontent.com/28235504/213322522-67237b66-cbba-4a7c-b57e-50aabd5a8f15.png)
 
 
+### nginx 
 ``` 
 #!/bin/bash
 sudo apt update -y
